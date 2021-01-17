@@ -35,6 +35,8 @@ namespace Metotlar
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle(urun1);
             sepetManager.Ekle2("Armut", "Kırmızı armut", 5, 10);
+
+
         }
     }
 }
